@@ -1,4 +1,4 @@
-title = "Eddie Webb"
+title = "Yixuan Li"
 baseURL = "https://example.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -8,10 +8,10 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
+address = "London, UK"
 email = "email@domain.com"
 favicon = "/favicon.ico"
-firstName = "Alice"
+firstName = "Yixuan (Alice)"
 lastName = "Li"
 phone = "1-555-555-1234"
 profileImage = "img/TechChat.png"
@@ -20,7 +20,7 @@ showExperience = true
 showOpenSource = true
 showProjects = true
 showPublications = true
-showQr = true
+showQr = false
 showSkills = true
 
 [params.google]
